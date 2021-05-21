@@ -1,3 +1,3 @@
 # Basic-Banking-Application
 
-Basic banking app for the sparks foundation
+Basic banking app as a part of task completion for the sparks foundation
